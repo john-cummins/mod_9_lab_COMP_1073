@@ -1,0 +1,57 @@
+//JSON
+  {
+    "strangeItems": [
+      {
+        "name": "Sloth Float",
+        "price": "73.14",
+        "details": [
+          "Waterproof",
+          "Single Passenger",
+          "Cupholder"
+          ],
+        "image": "sloth.jpg"
+      },
+      {
+        "name": "Real-size Elephant baloon",
+        "price": "159.95",
+        "details": [
+          "Inflatable",
+          "No Passenger",
+          "Probably not alive"
+          ],
+        "image": "elephant.jpg"
+      },
+      {
+        "name": "Frog Sleep Mask",
+        "price": "14.99",
+        "details": [
+          "Wearable Meme",
+          "Never close your eyes",
+          "Not a magnifying glass"
+          ],
+        "image": "frog_eyes.jpg"
+      },
+      {
+        "name": "Karaoke Earphones",
+        "price": "50.73",
+        "details": [
+          "Self-made vocals",
+          "Single Passenger",
+          "Not very quiet"
+          ],
+        "image": "earphones.jpg"
+      },
+      {
+        "name": "Phone Jail",
+        "price": "73.14",
+        "details": [
+          "Apple and Android compatable",
+          "Multiple phones",
+          "Teach kids lockpicking"
+          ],
+        "image": "phone_locker.jpg  "
+      }
+    ]
+
+
+  }
